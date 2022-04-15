@@ -5,6 +5,7 @@ public class Matematica {
     private double numeroUno;
     private double numeroDos;
     private String atrib1;
+    private String atrib2;
 
     public Matematica() {
     }
